@@ -22,7 +22,6 @@ Learn more: https://code.visualstudio.com/docs/copilot/copilot-customization
 -Keep nesting to a minimum
 -Create composable UI widgets if appropriate
 -UI must follow basic accessibility principles
--Localize user-facing strings in code to English and Spanish 
 -Generate tests in Playwright
 
 ## Tools
