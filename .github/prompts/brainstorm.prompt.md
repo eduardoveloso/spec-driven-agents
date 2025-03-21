@@ -4,6 +4,7 @@ I'm looking to collaborate with you to turn this into a high level spec that cov
 
 Use the following format to generate your proposal and return in markdown:
 
+```md
 # Project Name
 ## 1. Product Overview
 -Core value proposition
@@ -12,17 +13,16 @@ Use the following format to generate your proposal and return in markdown:
 -Break down the user's prompt into a series of functional specifications.
 -Extremely high level
 -Number these 2.1, 2.2, 2.3, etc.
-## 3. Technical Specifications
--Architecture for app at a high level, including language, frameworks, and platforms
-## 4. MVP Scope
+## 3. MVP Scope
 -Provide a basic MVP scope that could be delivered quickly to validate this idea.
-## 5. Business Model
+## 4. Business Model
 -Key differentiators in the market
 -Cover potential business model
-## 6. Marketing Plan
+## 5. Marketing Plan
 -Target audience
 -Overall marketing strategy
 -Marketing channels
+```
 
 Please:
 1. Ask me questions about any areas that need more detail
