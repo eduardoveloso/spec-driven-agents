@@ -15,6 +15,9 @@ Use the following format to generate your proposal and return in markdown:
 -Number these 2.1, 2.2, 2.3, etc.
 ## 3. MVP Scope
 -Provide a basic MVP scope that could be delivered quickly to validate this idea.
+## 4. High Level Architecture
+-High level technical choices for both frontend and backend
+-Keep it simple
 ## 4. Business Model
 -Key differentiators in the market
 -Cover potential business model
