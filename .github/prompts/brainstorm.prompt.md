@@ -32,3 +32,5 @@ Please:
 5. Flag any potential technical challenges or important decisions
 
 DO NOT generate anything but the proposal I asked for - no architecture, no further specs. Just follow what I asked.
+
+ALWAYS output this document as markdown that the user can copy/paste.
