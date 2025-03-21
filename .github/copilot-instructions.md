@@ -9,13 +9,6 @@ Learn more: https://code.visualstudio.com/docs/copilot/copilot-customization
 -->
 
 # Rules
-## Brain
-### Overview
--/brain/project.md - Project overview
--/brain/architecture.md - Technical architecture
--/brain/changelog.md - List of recent changes
--/brain/specs/ - Directory of specs that implement functional requirements from project.md
--/brain/plans/ - Directory of implementation plans for functional requirements derived from specs in /brain/specs
 
 ### Rules
 -Summarize the changes you made back to the user at a high level at end of response
