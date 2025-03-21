@@ -29,4 +29,6 @@ Please:
 2. Suggest features or considerations I might have missed
 3. Help me organize requirements logically
 4. Show me the current state of the spec after each exchange
-5. Flag any potential technical challenges or important decisio
+5. Flag any potential technical challenges or important decisions
+
+DO NOT generate anything but the proposal I asked for - no architecture, no further specs. Just follow what I asked.
