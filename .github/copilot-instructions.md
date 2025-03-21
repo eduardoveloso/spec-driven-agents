@@ -12,10 +12,6 @@ Learn more: https://code.visualstudio.com/docs/copilot/copilot-customization
 
 ### Rules
 -Summarize the changes you made back to the user at a high level at end of response
--Always summarize and print your changes to /brain/changelog.md
--Update /brain/architecture.md with any additions or changes to architecture
--Update /brain/project.md with any additions or changes to the project
--Update the specification file (in /brain/specs/) you were provided with any additions or changes to the project
 
 ## Code
 -Add comments to the top of each file explaining what the file does at a very high level
@@ -26,7 +22,7 @@ Learn more: https://code.visualstudio.com/docs/copilot/copilot-customization
 -Keep nesting to a minimum
 -Create composable UI widgets if appropriate
 -UI must follow basic accessibility principles
--Localize user-facing strings to English and Spanish
+-Localize user-facing strings in code to English and Spanish 
 -Generate tests in Playwright
 
 ## Tools
